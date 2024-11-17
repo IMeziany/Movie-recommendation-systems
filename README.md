@@ -11,8 +11,7 @@ This project implements a series of **movie recommendation models** using collab
 4. [Recommendation Models](#recommendation-models)
 5. [Results](#results)
 6. [Getting Started](#getting-started)
-7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ---
 
